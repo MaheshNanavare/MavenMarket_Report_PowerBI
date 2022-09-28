@@ -2,15 +2,13 @@
 
 This report was done as a course exercise by *Mahesh Nanavare* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
 
-All the source CSV files were made available in the course itself. Thanks to *Chris Dutton*, instructor of the course for allowing the publication of the report.
-
 ## About the report :-
 
-**Role** : Lead analyst
+**Aim** : design and execute an end to end business intelligence solution from scratch
 
 **Company** : Maven Market (a multi-national grocery chain with locations in Canada, Mexico and the United States)
 
-**Aim** : design and execute an end to end business intelligence solution from scratch
+**Role** : Lead analyst
 
 ## Tasks Performed through the entire business intelligence workflow: :-
 
@@ -30,3 +28,5 @@ All the source CSV files were made available in the course itself. Thanks to *Ch
 ## Data View :![Data View](https://user-images.githubusercontent.com/98680598/177703562-21c7c5b3-9d90-4ee1-840e-41e479b72059.jpg)
 
 ## Model View :![Model View](https://user-images.githubusercontent.com/98680598/177703566-cfdecde8-90d9-4600-89d4-816f6fbbc1fc.jpg)
+
+All the source CSV files (containing information about transactions, returns, products, customers and territories) were made available in the Udemy course itself. Thanks to *Chris Dutton*, instructor of the course for allowing the publication of the report.
